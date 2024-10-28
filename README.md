@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">NullByte</h1>
+<h1 align="center">Nullbyte</h1>
 <a href="https://github.com/AyhamDev1"></a>
 
 <p align="center">
@@ -10,7 +10,13 @@
 </p>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs,c+"/>
+    <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=AyhamDev1&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
 
 ![Footer](./footer.png)
